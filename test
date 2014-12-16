@@ -22,18 +22,7 @@
     </itunes:category>
     <itunes:category text="TV &amp; Film"/>
 
-    <item>
-      <title>摇动你的调味瓶</title>
-      <itunes:author>李迎迎</itunes:author>
-      <itunes:subtitle>餐桌调味料初探</itunes:subtitle>
-      <itunes:summary><![CDATA[这周我们来谈谈 <a href="https://itunes/apple.com/us/book/antique-trader-salt-pepper/id429691295?mt=11">食盐与胡椒的混合</a>，并将其与建筑中的倒率、材料与整体美学进行类比。欢迎加入我们的讨论！]]</itunes:summary>
-      <itunes:image href="http://example.com/podcasts/everything/AllAbout Everything/Episode1.jpg" />
-      <enclosure url="http://example.com/podcasts/everything/AllAboutEverythingEpisode3.m4a" length="8727310" type="audio/x-m4a" />
-      <guid>http://example.com/podcasts/archive/aae20140615.m4a</guid>
-      <pubDate>Wed, 15 Jun 2014 19:00:00 GMT</pubDate>
-      <itunes:duration>7:04</itunes:duration>
-    </item>
-
+ 
     <item>
       <title>套筒扳手大比拼</title>
       <itunes:author>梁满恒</itunes:author>
