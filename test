@@ -21,19 +21,6 @@
       <itunes:category text="Gadgets"/>
     </itunes:category>
     <itunes:category text="TV &amp; Film"/>
-    
-    <item>
-      <title>红、白 &amp; 蓝</title>
-      <itunes:author>多个作者</itunes:author>
-      <itunes:subtitle>红 + 蓝 != 紫</itunes:subtitle>
-      <itunes:summary>这周我们来谈谈颜色与性格，如果你是一个蓝色性格的人，你该如何在红色的状态下生活？或反过来又会怎样？</itunes:summary>
-      <itunes:image href="http://example.com/podcasts/everything/AllAboutEverything/Episode3.jpg" />
-      <enclosure url="http://example.com/podcasts/everything/AllAboutEverythingEpisode1.mp3" length="498537" type="audio/mpeg" />
-      <guid>http://example.com/podcasts/archive/aae20140601.mp3</guid>
-      <pubDate>Wed, 1 Jun 2014 19:00:00 GMT</pubDate>
-      <itunes:duration>3:59</itunes:duration>
-    </item>
-
   </channel>
 </rss>
 
