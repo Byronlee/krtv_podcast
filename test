@@ -21,20 +21,7 @@
       <itunes:category text="Gadgets"/>
     </itunes:category>
     <itunes:category text="TV &amp; Film"/>
-
- 
-    <item>
-      <title>套筒扳手大比拼</title>
-      <itunes:author>梁满恒</itunes:author>
-      <itunes:subtitle>比较各式套筒扳手，乐趣无穷！</itunes:subtitle>
-      <itunes:summary>这周我们来聊聊公制套筒扳手与旧式英制套筒扳手的区别。哪一款更好用？你需要配备两款吗？这里我们为你一一解答。</itunes:summary>
-      <itunes:image href="http://example.com/podcasts/everything/AllAboutEverything/Episode2.jpg" />
-      <enclosure url="http://example.com/podcasts/everything/AllAboutEverythingEpisode2.mp3" length="5650889" type="audio/mpeg" />
-      <guid>http://example.com/podcasts/archive/aae20140608.mp3</guid>
-      <pubDate>Wed, 8 Jun 2014 19:00:00 GMT<pubDate>
-      <itunes:duration>4:34</itunes:duration>
-    </item>
-
+    
     <item>
       <title>红、白 &amp; 蓝</title>
       <itunes:author>多个作者</itunes:author>
