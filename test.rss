@@ -2,7 +2,6 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>KrTV视频</title>
-    <link>http://www.example.com/podcasts/everything/index.html</link>
     <language>zh-CN</language>
 
     <itunes:subtitle>KrTV视频</itunes:subtitle>
@@ -16,10 +15,6 @@
     </itunes:owner>
 
     <itunes:image href="http://ginchenorlee.com/assets/images/dashborad/my_photo.jpg" />
-    <itunes:category text="Technology">
-      <itunes:category text="Gadgets"/>
-    </itunes:category>
-    <itunes:category text="TV &amp; Film"/>
 
     <item>
       <title>【KrTV视频】时刻关心你的宠物，给猫咪用的健康监测仪 Tailio</title>
