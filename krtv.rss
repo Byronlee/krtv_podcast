@@ -12,14 +12,50 @@
 
     <itunes:owner>
       <itunes:name>氪TV</itunes:name>
-      <itunes:email>guozhan@36kr.com</itunes:email>
+      <itunes:email>nieyiheng@36kr.com</itunes:email>
     </itunes:owner>
 
-    <itunes:image href="http://krtv.qiniudn.com/%E7%BB%BF%E8%89%B2tv.png" />
+    <itunes:image href="http://krtv.qiniudn.com/LOGO-dark.jpg" />
     <itunes:category text="Technology">
       <itunes:category text="Gadgets"/>
     </itunes:category>
     <itunes:category text="TV &amp; Film"/>
+
+    <item> 
+      <title>【氪TV视频】一分钱一张拍立得，用收据纸打印照片的 PrintSnap</title>
+      <itunes:author>氪TV</itunes:author>
+      <itunes:subtitle>http://krtv.qiniudn.com/【KrTV】一分钱一张拍立得，用收据纸打印照片的 PrintSnap.mp4</itunes:subtitle>       
+      <itunes:summary>加入我们的讨论</itunes:summary>       
+      <itunes:image href="http://a.36krcnd.com/photo/2015/ee4f7510b31ecec3f1879ebbdfe67d15.jpg" />      
+      <enclosure url="http://krtv.qiniudn.com/【KrTV】一分钱一张拍立得，用收据纸打印照片的 PrintSnap.mp4" length="8727310" type="audio/x-m4a" />       
+      <guid>http://krtv.qiniudn.com/【KrTV】一分钱一张拍立得，用收据纸打印照片的 PrintSnap.mp4</guid>       
+      <pubDate>Tue, 23 Dec 2014 19:00:00 GMT</pubDate>       
+      <itunes:duration>7:04</itunes:duration>    
+    </item>
+
+    <item>       
+      <title>【氪TV视频】《我是创业者》乐流创始人吕骋:不去改变世界就去做海盗</title>       
+      <itunes:author>氪TV</itunes:author>       
+      <itunes:subtitle>http://krtv.qiniudn.com/乐流创始人吕骋.mp4</itunes:subtitle>      
+      <itunes:summary>加入我们的讨论</itunes:summary>      
+      <itunes:image href="http://a.36krcnd.com/photo/2015/39d45e766f4f25aa7a2e2f01bb3d56e6.jpeg" />       
+      <enclosure url="http://krtv.qiniudn.com/乐流创始人吕骋.mp4" length="8727310" type="audio/x-m4a" />    
+      <guid>http://krtv.qiniudn.com/乐流创始人吕骋.mp4</guid>       
+      <pubDate>Tue, 23 Dec 2014 19:00:00 GMT</pubDate>       
+      <itunes:duration>7:04</itunes:duration>     
+    </item>
+
+    <item>       
+      <title>【氪TV视频】黏在身上的运动监测设备 AmpStrip，可穿戴设备的未来？</title>       
+      <itunes:author>氪TV</itunes:author>       
+      <itunes:subtitle>http://krtv.qiniudn.com/AmpStrip.mp4</itunes:subtitle>       
+      <itunes:summary>加入我们的讨论</itunes:summary>       
+      <itunes:image href="http://a.36krcnd.com/photo/2015/300ae8a4d2b3856a857eb3a6f8770c55.jpg" />       
+      <enclosure url="http://krtv.qiniudn.com/KrTV一键化身游戏厅，转身就变录音棚，可做全领域控制台的触摸键盘 101touch.mp44" length="8727310" type="audio/x-m4a" />      
+      <guid>http://krtv.qiniudn.com/AmpStrip.mp4</guid>       
+      <pubDate>Tue, 23 Dec 2014 19:00:00 GMT</pubDate>       
+      <itunes:duration>7:04</itunes:duration>     
+    </item>
 
     <item>
       <title>【KrTV视频】一键化身游戏厅，转身就变录音棚，可做全领域控制台的触摸键盘 101touch.mp4</title>
